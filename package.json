@@ -1,0 +1,14 @@
+{
+  "name": "discord-screenshare",
+  "version": "0.0.1",
+  "description": "A module that allows user accounts and bots to stream to discord",
+  "main": "./src/index.js",
+  "repository": "https://github.com/TheDevYellowy/discord-screenshare",
+  "author": "Yellowy <64450187+TheDevYellowy@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "selenium-webdriver": "^4.6.0",
+    "ytdl-core": "^4.11.2"
+  }
+}
